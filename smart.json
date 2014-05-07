@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-multiselect",
+  "description": "bootstrap-multiselect - makes multiple select inputs nicer",
+  "homepage": "https://github.com/unboundmusic/bootstrap-multiselect-meteor",
+  "author": "Ben Meyer <ben@stratogee.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/unboundmusic/bootstrap-multiselect-meteor"
+}
